@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# RPG Adventure Flavour Pack
+# RPG Adventure Flavour Pack.
 
 ![Mod Version](https://img.shields.io/badge/Mod_Version-1.0.1-blue.svg)
 ![RimWorld Version](https://img.shields.io/badge/Built_for_RimWorld-1.4-blue.svg)
