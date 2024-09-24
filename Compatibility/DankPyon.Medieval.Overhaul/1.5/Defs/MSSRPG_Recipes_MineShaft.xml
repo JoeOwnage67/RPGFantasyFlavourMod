@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<RecipeDef Name="MSSRPG_DankPyon_MineShaft_BaseRecipe" Abstract="True">
+	<!-- <RecipeDef Name="MSSRPG_DankPyon_MineShaft_BaseRecipe" Abstract="True">
 		<description>Mine even more deeply and greedily to obtain rock chunks.</description>
 		<workSpeedStat>MiningSpeed</workSpeedStat>
 		<workSkill>Mining</workSkill>
@@ -106,5 +106,5 @@
 		<products>
 			<Tungsteel>15</Tungsteel>
 		</products>	
-	</RecipeDef>
+	</RecipeDef>-->
 </Defs>
