@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
 
-	<IncidentDef>
+	<!-- <IncidentDef>
 		<defName>MSSRPG_EnragedCreatureAttack</defName>
 		<label>triggered enraged attack</label>
 		<targetTags>
@@ -16,6 +16,6 @@
 		<category>DeepDrillInfestation</category>
 		<pointsScaleable>true</pointsScaleable>
 		<tale>Infestation</tale>
-	</IncidentDef>
+	</IncidentDef> -->
 
 </Defs>
