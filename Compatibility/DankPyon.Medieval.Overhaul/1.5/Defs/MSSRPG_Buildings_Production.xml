@@ -2,7 +2,7 @@
 
 <Defs>
     <!-- Deeper Mine Shaft (for fantasy garbage) -->
-    <ThingDef ParentName="BuildingBase" MayRequire="vanillaexpanded.vpsycastse">
+   <!-- <ThingDef ParentName="BuildingBase" MayRequire="vanillaexpanded.vpsycastse">
         <defName>MSSRPG_DankPyon_MineShaft</defName>
         <label>Deeper Darker mine shaft</label>
         <description>A mineshaft delving more greedily and deeper than most conventional mines. Requires constant Arcanium to power the geomancy sustaining the unfathomably deep shaft.</description>
@@ -97,14 +97,13 @@
 
         <designationHotKey>Misc3</designationHotKey>
         <placeWorkers>
-            <!--li>PlaceWorker_ShowFacilitiesConnections</li-->
             <li>PlaceWorker_PreventInteractionSpotOverlap</li>
         </placeWorkers>
         <researchPrerequisites>
             <li>DankPyon_Mining</li>
         </researchPrerequisites>
         <techLevel>Medieval</techLevel>
-    </ThingDef>
+    </ThingDef> -->
 
     <PawnKindDef ParentName="BasePlayerPawnKind">
         <defName>MSSRPG_UnderDweller</defName>
@@ -170,5 +169,5 @@
                 <Impid>0.2</Impid>
             </xenotypeChances>
         </xenotypeSet>
-    </PawnKindDef>
+    </PawnKindDef> 
 </Defs>
